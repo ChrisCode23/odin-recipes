@@ -33,6 +33,10 @@ body{
     background-color: blueviolet;
 }
 
+.menu .one, .two{
+    border-bottom: 2px solid hsla(268, 87%, 15%, 0.452)
+}
+
 .menu a{
     color: rgba(242, 232, 248, 0.966);
     font-weight: bolder;
